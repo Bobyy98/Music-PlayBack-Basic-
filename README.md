@@ -1,3 +1,3 @@
 # Music-PlayBack-Basic-
 
-A msuic player with basic functionalities as play, pause, next track, previous track and audio progress bar.
+A music player with basic functionalities such as play, pause, next track, previous track, and audio progress bar.
